@@ -1,4 +1,3 @@
-# Hacktoberfest2024
 # Landing Page
 # Pizzeria Website
 
